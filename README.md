@@ -37,5 +37,5 @@ Certifique-se de ter as seguintes dependências instaladas:
 
 1. **Clone o repositório ou baixe os arquivos**:
    ```bash
-   git clone <https://github.com/Alan-0718-sj/forca-bruta-excel>
-   cd <NOME_DO_DIRETORIO>
+   git clone https://github.com/Alan-0718-sj/forca-bruta-excel
+   cd forca-bruta-excel
