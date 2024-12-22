@@ -1,6 +1,7 @@
 # SENHA PLANILHA
 
-Este projeto é uma ferramenta em Python para realizar um ataque de força bruta em arquivos do Microsoft Excel protegidos por senha. Ele permite ao usuário escolher um arquivo Excel e definir os parâmetros do ataque, como comprimento da senha e tipos de caracteres a serem utilizados.
+Este projeto é uma ferramenta em Python para realizar um ataque de força bruta em arquivos do Microsoft Excel protegidos por senha. Ele permite ao usuário escolher um arquivo Excel e definir os parâmetros do ataque, como comprimento da senha e tipos de caracteres a serem utilizados. Este programa é destinado exclusivamente a fins educacionais e éticos. ⚠️ **Certifique-se de ter permissão para testar arquivos EXCEL antes de utilizá-lo.**
+
 
 ---
 
